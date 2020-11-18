@@ -179,7 +179,7 @@ img {
 @media (min-width: 768px) {
     .navegacion a {
         display: inline;
-        margin: 2rem;
+        margin-right: 2rem;
     }
     .navegacion a:last-of-type {
         margin: 0;
